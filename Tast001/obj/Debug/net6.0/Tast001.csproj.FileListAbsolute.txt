@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\попытка 2\Homework7\Tast001\bin\Debug\net6.0\Tast001.exe
+C:\Users\Asus\Desktop\попытка 2\Homework7\Tast001\bin\Debug\net6.0\Tast001.deps.json
+C:\Users\Asus\Desktop\попытка 2\Homework7\Tast001\bin\Debug\net6.0\Tast001.runtimeconfig.json
+C:\Users\Asus\Desktop\попытка 2\Homework7\Tast001\bin\Debug\net6.0\Tast001.dll
+C:\Users\Asus\Desktop\попытка 2\Homework7\Tast001\bin\Debug\net6.0\Tast001.pdb
+C:\Users\Asus\Desktop\попытка 2\Homework7\Tast001\obj\Debug\net6.0\Tast001.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\попытка 2\Homework7\Tast001\obj\Debug\net6.0\Tast001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\попытка 2\Homework7\Tast001\obj\Debug\net6.0\Tast001.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\попытка 2\Homework7\Tast001\obj\Debug\net6.0\Tast001.AssemblyInfo.cs
+C:\Users\Asus\Desktop\попытка 2\Homework7\Tast001\obj\Debug\net6.0\Tast001.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\попытка 2\Homework7\Tast001\obj\Debug\net6.0\Tast001.dll
+C:\Users\Asus\Desktop\попытка 2\Homework7\Tast001\obj\Debug\net6.0\refint\Tast001.dll
+C:\Users\Asus\Desktop\попытка 2\Homework7\Tast001\obj\Debug\net6.0\Tast001.pdb
+C:\Users\Asus\Desktop\попытка 2\Homework7\Tast001\obj\Debug\net6.0\Tast001.genruntimeconfig.cache
+C:\Users\Asus\Desktop\попытка 2\Homework7\Tast001\obj\Debug\net6.0\ref\Tast001.dll
